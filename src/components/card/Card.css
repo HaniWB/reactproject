@@ -1,0 +1,52 @@
+.card{
+    position: relative;
+   width: 15rem; 
+   height: 25rem;
+   background-color:white;
+   margin-bottom: 5rem;
+   border-radius: 1rem;
+   border: 0.0000000000000000001rem solid darkgray ;
+    box-shadow: 0 0 24px rgba(0, 0, 0, .03);
+   padding: 1rem;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+.card img{
+width: 100%;
+height: 50% ;
+}
+.firstp {
+    margin-top:2rem !important;
+    font-family: Roboto;
+    margin-bottom: 0;
+}
+.card p span {
+    color: #1262af
+}
+b{
+    margin-right: 0.5rem;
+}
+.rating{
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+.card button{
+    align-items: center;
+    align-self: stretch;
+    background-color: initial;
+    border: 1px solid #ccdcec;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 46px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    color: #1262af
+
+}

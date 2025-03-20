@@ -1,0 +1,63 @@
+.div-preparation-header{
+    width: 100%;
+    padding-left:7rem ;
+    padding-right:7rem ;
+    box-sizing: border-box;
+}
+div .Rescnt-search h1{
+    font-size: 1.5rem;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    opacity: 0.8;
+}
+div .prepare p {
+    font-size: 1.5rem;  
+    color: #cecece;
+    letter-spacing: .04em;
+}
+div .prepare-grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+.div-preparation-header p {
+    margin-top: 6rem;
+    margin-bottom:0 ;
+}
+.preparation-box{
+    width: 48%;
+    height: 7rem;
+    border: 0.0000000000000000001rem solid gray;
+    border-radius: 0.5rem ;
+    box-shadow: 0 0 15rem rgba(0, 0, 0, .03);
+
+}
+.box-flex{
+display: flex;
+justify-content: space-between;
+
+}
+.box-paraghraph{
+    display: flex;
+    justify-content: space-between;
+}
+.box-paraghraph img{
+    padding: 0.2rem;
+    width: 10rem;
+    height: 4rem;
+}
+.box-paraghraph p {
+    margin: 0 !important;
+    color: rgb(86, 86, 238);
+    font-size: x-large;
+    padding: 1rem;
+    font-weight: bold;
+    
+}
+.depart{
+    display: flex;
+    justify-content: center;
+}
+.depart p {
+    margin: 0 !important;
+    font-size: 1.3rem;
+}
